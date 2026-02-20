@@ -1,7 +1,6 @@
 # 🚀 SPY 0DTE Options Profitability Prediction Model
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![XGBoost](https://img.shields.io/badge/ML-XGBoost-orange.svg)](https://xgboost.readthedocs.io/)
 
 A machine learning system for predicting SPY 0-Day-to-Expiration (0DTE) options profitability using real-time market data and technical indicators.
